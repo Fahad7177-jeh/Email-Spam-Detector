@@ -44,7 +44,6 @@ pip install -r requirements.txt
 ## Run the web app
 streamlit run app.py
 
----
 ## 📊 Model Performance
 
 | Metric    | Score |
@@ -53,12 +52,8 @@ streamlit run app.py
 | Precision | 97%   |
 | Recall    | 96%   |
 
----
-
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork this repo and submit a pull request.
-
----
 
 ## 👨‍💻 Author
 Shaik Fahad Jahangir
